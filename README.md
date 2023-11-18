@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Robert Bach
-- 👀 I’m interested in Quant Analysis
-- 🌱 I’m currently learning Machine Lerning
-- 📫 You can reach me here robert.vietnam@outlook.com
+### Hi 👋
 
-<!---
-baobach/baobach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My name is Robert and I am pursuing a career in Quantitative Finance. I want to apply my mathematical skills in machine learning algorithm development, portfolio return optimization, and trading derivatives. I am seeking opportunities to contribute expertise in quantitative finance, data analysis, and computational skills to drive innovative strategies in the financial domain.
+
+### Key Skills
+* Scientific Python (numpy, pandas, scikit-learn, TensorFlow);
+* Mongo DB, Git, Docker;
+* $\LaTeX$: various documents and custom templates;
+* Agile project management methodology.
