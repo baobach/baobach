@@ -1,10 +1,11 @@
-### Hi 👋
+<!-- [![](images/github-card@2x.png)](https://adamgulyas.com) -->
+## Hi &nbsp;👋
 
 My name is Robert and I am pursuing a career in Quantitative Finance. I want to apply my mathematical skills in machine learning algorithm development, portfolio return optimization, and trading derivatives. I am seeking opportunities to contribute expertise in quantitative finance, data analysis, and computational skills to drive innovative strategies in the financial domain.
 
 Reach me at: robert@quantfin.net
 
-### Key Skills
+## Key Skills & Tools &nbsp;🧰
 * Quant skills: Probability theory, Stochastic Calculus, Montecarlo Method, Risk Modeling, Portfolio Optimization, Algorithmic Trading Strategy;
 * Technical skills: 
 ![MacOS](https://img.shields.io/badge/-MacOS-0D1117?style=flat-square&logo=apple)
@@ -28,3 +29,23 @@ Reach me at: robert@quantfin.net
 ![Ethereum](https://img.shields.io/badge/-Ethereum-0D1117?style=flat-square&logo=ethereum)
 * $\LaTeX$: various documents and custom templates;
 * Agile project management methodology.
+
+## Work Experience &nbsp;👔
+
+| Position                    | Company                   | Field                           | Time Period          |
+| --------------------------- | ------------------------- | ------------------------------- | -------------------- |
+| Quant Researcher            | Riot Investment Strategy  | Backtesting Engine              | 01/2024 — Present    |
+| Growth Manager              | Incognito.org             | Growth Consulting - Blockchain  | 12/2021 — 02/2023    |
+
+
+## Education &nbsp;🎓
+
+Certificate in Quantitative Finance, CQF\
+**FitchLearning, London**
+
+Thermal Energy Engineering\
+**Danang University of Technology, Vietnam**
+
+Business Administration\
+**Duytan University, Vietnam**
+
