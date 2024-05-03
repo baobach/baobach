@@ -6,8 +6,7 @@ My name is Robert and I am pursuing a career in Quantitative Finance. I want to 
 Reach me at: robert@quantfin.net
 
 ## Key Skills & Tools &nbsp;🧰
-* Quant skills: Probability theory, Stochastic Calculus, Montecarlo Method, Risk Modeling, Portfolio Optimization, Algorithmic Trading Strategy;
-* Technical skills: 
+
 ![MacOS](https://img.shields.io/badge/-MacOS-0D1117?style=flat-square&logo=apple)
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=flat-square&logo=linux)
 ![Bash](https://img.shields.io/badge/-Bash-0D1117?style=flat-square&logo=gnu-bash)
@@ -27,6 +26,8 @@ Reach me at: robert@quantfin.net
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=flat-square&logo=mongodb)
 ![Django](https://img.shields.io/badge/-Django-0D1117?style=flat-square&logo=django)
 ![Ethereum](https://img.shields.io/badge/-Ethereum-0D1117?style=flat-square&logo=ethereum)
+
+* Quant skills: Probability theory, Stochastic Calculus, Montecarlo Method, Risk Modeling, Portfolio Optimization, Algorithmic Trading Strategy;
 * $\LaTeX$: various documents and custom templates;
 * Agile project management methodology.
 
