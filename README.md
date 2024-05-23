@@ -7,13 +7,12 @@ Reach me at: robert@quantfin.net
 
 ## Key Skills & Tools &nbsp;🧰
 
-![MacOS](https://img.shields.io/badge/-MacOS-0D1117?style=flat-square&logo=apple)
-![Linux](https://img.shields.io/badge/-Linux-0D1117?style=flat-square&logo=linux)
+![Python](https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=python)
+[![C#](https://img.shields.io/badge/C%23-%23239120.svg?logo=csharp&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-0D1117?style=flat-square&logo=gnu-bash)
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat-square&logo=docker)
 ![VS Code](https://img.shields.io/badge/-VSCode-0D1117?style=flat-square&logo=visualstudiocode)
-![Python](https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=python)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat-square&logo=postgresql)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-0D1117?style=flat-square&logo=anaconda)
 ![NumPy](https://img.shields.io/badge/-NumPy-0D1117?style=flat-square&logo=numpy)
