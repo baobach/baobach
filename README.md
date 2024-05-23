@@ -34,6 +34,7 @@ Reach me at: robert@quantfin.net
 
 | Position                    | Company                   | Field                           | Time Period          |
 | --------------------------- | ------------------------- | ------------------------------- | -------------------- |
+| Integration Partners        | QuantConnect              | Algorithmic Trading             | 01/2024 — Present    |
 | Quant Researcher            | Riot Investment Strategy  | Backtesting Engine              | 01/2024 — Present    |
 | Growth Manager              | Incognito.org             | Growth Consulting - Blockchain  | 12/2021 — 02/2023    |
 
@@ -42,10 +43,4 @@ Reach me at: robert@quantfin.net
 
 Certificate in Quantitative Finance, CQF\
 **FitchLearning, London**
-
-Thermal Energy Engineering\
-**Danang University of Technology, Vietnam**
-
-Business Administration\
-**Duytan University, Vietnam**
 
